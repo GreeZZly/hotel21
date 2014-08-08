@@ -644,7 +644,7 @@ body#fullScreen #mainHeader{display:none;}
 }
 .btn.homeBtn {position:relative; background:rgba(255,255,255,0.25);}
 
-#logoBig img{width:300px; margin:auto; position: relative}
+#logoBig img{margin:auto; position: relative}
 #homeFullScreen #flexHome {margin: 0;}
 #homeFullScreen #flexHome h1, #homeFullScreen #flexHome .flex-control-nav{text-align: center; margin-bottom: 44px;}
 #homeFullScreen .flexslider .slides > li{height:80px;}
@@ -1028,3 +1028,8 @@ body#comingSoon{padding-top:0; background: #4B4A4A}
 
 /* END MISCELANIOUS
 ================================================== */
+/* MY*/
+
+/*#about .table {
+	text-align: center
+}*/
