@@ -1033,3 +1033,15 @@ body#comingSoon{padding-top:0; background: #4B4A4A}
 /*#about .table {
 	text-align: center
 }*/
+
+#footerLogo {
+	width: 150px;
+}
+
+a.pluso-more {
+display: none;
+visibility: hidden;
+}
+.navbar-brand img {
+	width: 200px;
+}
